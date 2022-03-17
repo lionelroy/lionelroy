@@ -2,7 +2,7 @@
 - I have a background in Building Automation Systems(Service Department) and experience working with DCS(Distributed Control Systems), HVAC, Access Controls, CCTV, hospital room isolation systems, laboratory fume hoods and more.
 - 👀 I’m interested in User Interfaces, Cloud Computing, Data Analysis, Automation, Electrical Engineering, and Embedded Systems.
 - 🌱 I’m currently learning React, PostgreSQL, AWS, Node.js, and Python just to name a few.
-- 💞️ I’m looking to collaborate on software projects relating to Building Automation Systems, GIS Applications, AI, AR/VR, UI/HMI, Iot, or Big-Data. 
+- 💞️ I’m looking to collaborate on software projects relating to Building Automation Systems, GIS Applications, AI, AR/VR, UI/HMI, IoT, or Big-Data. 
 
 
 
