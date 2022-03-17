@@ -6,7 +6,7 @@
 
 
 
-- Technologies: 
+<h3>Technologies:</h3> 
  <ul>
   <li>HTML5
   <li>CSS</li>
