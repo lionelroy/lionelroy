@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephane
-- 👀 I’m interested in User Interfaces, Data Analysis, Automation, and Embedded Systems.
-- 🌱 I’m currently learning React, PostgreSQL and Python.
+- 👀 I’m interested in User Interfaces, Data Analysis, Automation, Electrical Engineering, and Embedded Systems.
+- 🌱 I’m currently learning React, PostgreSQL, Node.js, and Python just to name a few.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
