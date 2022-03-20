@@ -26,8 +26,7 @@
   <li>NextJS</li>
   <li>Express.js</li>
   <li>GraphQL</li>
-  <li>MySQL</li>
-  <li>MongoDB</li>
+  <li>SQL/NoSQL databases</li>
   <li>Linux</li>
   <li>Git</li>
   <li>Jest</li>
