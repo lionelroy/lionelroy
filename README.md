@@ -21,6 +21,7 @@
   <li>Pandas</li>
   <li>matplotlib</li>
   <li>NumPy</li>
+  <li>PyTorch</li>
   <li>React</li>
   <li>NextJS</li>
   <li>Express.js</li>
