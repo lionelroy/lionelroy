@@ -18,7 +18,6 @@
   <li>Node.js</li>
   <li>Python</li>
   <li>Bash</li>
-  <li>C programming</li>
   <li>Pandas</li>
   <li>matplotlib</li>
   <li>NumPy</li>
