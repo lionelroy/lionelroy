@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m Stephane</h1>
-<p>I have a background in Building Automation Systems and experience working with DCS(Distributed Control Systems), HVAC, Access Controls, CCTV, hospital isolation room systems, laboratory fume hoods and more.</p>
+<p>I have a background in Building Automation Systems and experience working with DCS(Distributed Control Systems), HVAC, Electrical Systems, CCTV, Access Control, Software/Hardware Applications, and Event Management Systems.</p>
 
 - 👀 I’m interested in User Interfaces, Cloud Computing, Data Analysis, Automation, Electrical Engineering, and Embedded Systems.
-- 🌱 I’m currently learning React, PostgreSQL, Node.js, and Python just to name a few.
+- 🌱 I’m currently learning React, AWS, and Python just to name a few.
 - 💞️ I’m looking to collaborate on software projects relating to Building Automation Systems, GIS Applications, AI, AR/VR, UI/HMI, IoT, or Big-Data. 
 
 
@@ -19,7 +19,7 @@
   <li>Python</li>
   <li>Bash</li>
   <li>Pandas</li>
-  <li>matplotlib</li>
+  <li>Matplotlib</li>
   <li>NumPy</li>
   <li>PyTorch</li>
   <li>React</li>
