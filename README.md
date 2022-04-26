@@ -2,7 +2,7 @@
 <p>Creative Full-Stack developer with a background in Building Automation Systems and experience working with DCS(Distributed Control Systems), HVAC, Electrical Systems, CCTV, Access Control, Software/Hardware Applications, and Event Management Systems.</p>
 
 - 👀 I’m interested in User Interfaces, Cloud Computing, Data Analysis, Automation, Electrical Engineering, and Embedded Systems.
-- 🌱 I’m currently learning React, AWS, and Python just to name a few.
+- 🌱 I’m currently learning React, MySQL, and Python just to name a few.
 - 💞️ I’m looking to collaborate on software projects relating to Building Automation Systems, GIS Applications, AI, AR/VR, UI/HMI, IoT, or Big-Data. 
 
 
