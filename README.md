@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m Stephane</h1>
 <p>Quality Assurance Specialist with a background in Building Automation Systems and passion for photography.</p>
 
-- 👀 I’m interested in UI Design, Quality Assurance, and Automation.
-- 🌱 I’m currently learning React, MySQL, and Python just to name a few.
+- 👀 Interested in UI Design, Quality Assurance, and Automation.
+- 🌱 Currently learning React, MySQL, and Python just to name a few.
 
 <h3>Technologies:</h3> 
  <ul>
