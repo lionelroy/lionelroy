@@ -1,11 +1,8 @@
 <h1>👋 Hi, I’m Stephane</h1>
-<p>Creative Full-Stack developer with a background in Building Automation Systems. Knowledgeable in DCS(Distributed Control Systems), HVAC, Control Systems, Gas Detection, CCTV, Access Control, Software/Hardware Applications, and Event Management Systems.</p>
+<p>Quality Assurance Specialist with a background in Building Automation Systems and passion for photography.</p>
 
-- 👀 I’m interested in UI Design, Quality Assurance Testing, Data Analysis, Automation, GIS, and Electrical Engineering.
+- 👀 I’m interested in UI Design, Quality Assurance, and Automation.
 - 🌱 I’m currently learning React, MySQL, and Python just to name a few.
-- 💞️ I’m looking to collaborate on software projects relating to Building Automation Systems, GIS Applications, AI, UI/UX/HMI, IoT, and Big-Data. 
-
-
 
 <h3>Technologies:</h3> 
  <ul>
@@ -17,16 +14,13 @@
   <li>JavaScript</li>
   <li>Node.js</li>
   <li>Python</li>
-  <li>Bash</li>
   <li>Pandas</li>
   <li>Matplotlib</li>
   <li>NumPy</li>
-  <li>PyTorch</li>
   <li>React</li>
   <li>NextJS</li>
   <li>Express.js</li>
   <li>GraphQL</li>
-  <li>SQL/NoSQL databases</li>
   <li>Linux</li>
   <li>Git</li>
   <li>Jest</li>
