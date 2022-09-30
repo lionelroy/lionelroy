@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Stephane</h1>
 <p>Quality Assurance Specialist with a background in Building Automation Systems and passion for photography.</p>
 
-- 👀 Interested in UI Design, Quality Assurance, and Automation.
+- 👀 Interested in UI Design, Quality Assurance, and IoT technologies.
 - 🌱 Currently learning React, MySQL, and Python just to name a few.
 
 <h3>Technologies:</h3> 
@@ -9,7 +9,6 @@
   <li>HTML5
   <li>CSS</li>
   <li>SASS</li>
-  <li>Tailwind CSS</li>
   <li>Bootstrap</li>
   <li>JavaScript</li>
   <li>Node.js</li>
@@ -18,9 +17,8 @@
   <li>Matplotlib</li>
   <li>NumPy</li>
   <li>React</li>
-  <li>NextJS</li>
-  <li>Express.js</li>
   <li>GraphQL</li>
+  <li>Jira</li>
   <li>Linux</li>
   <li>Git</li>
   <li>Jest</li>
