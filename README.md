@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m Stephane</h1>
-<p>Quality Assurance Specialist with a background in Building Automation Systems and passion for photography.</p>
+<p>Quality Assurance Specialist with a passion for Visual Design.</p>
 
 - 👀 Interested in UI Design, Quality Assurance, IoT technologies and game development.
-- 🌱 Currently learning React, MySQL, and Python just to name a few.
+- 🌱 Currently learning Unity, Figma and C#.
 
 <h3>Technologies:</h3> 
  <ul>
@@ -16,7 +16,7 @@
   <li>Pandas</li>
   <li>Matplotlib</li>
   <li>NumPy</li>
-  <li>React</li>
+  <li>ReactJS</li>
   <li>GraphQL</li>
   <li>Jira</li>
   <li>Zephyr Squad</li>
