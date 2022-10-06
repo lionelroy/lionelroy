@@ -2,7 +2,7 @@
 <p>Quality Assurance Specialist with a passion for Visual Design.</p>
 
 - 👀 Interested in UI Design, Quality Assurance, IoT technologies and game development.
-- 🌱 Currently learning Unity, Figma and C#.
+- 🌱 Currently learning Unity and C#.
 
 <h3>Technologies:</h3> 
  <ul>
