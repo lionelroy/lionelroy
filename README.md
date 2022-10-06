@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Stephane</h1>
-<p>Quality Assurance Specialist with a passion for Visual Design.</p>
+<p>Software QA Specialist with a passion for Visual Design.</p>
 
 - 👀 Interested in UI Design, Quality Assurance, IoT technologies and game development.
 - 🌱 Currently learning Unity and C#.
