@@ -2,7 +2,7 @@
 <h3>Software QA Specialist with a passion for Visual Design.</h3>
 
 - 👀 Interested in UI Design, QA Testing, IoT technologies and game development.
-- 🌱 Currently learning Selenium, Unity and C#.
+- 🌱 Currently learning Selenium, AWS, Unity and C#.
 
 <h3>Technologies:</h3> 
  <ul>
