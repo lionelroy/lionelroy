@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Stephane</h1>
-<h3>Software QA Specialist with a passion for Autumation.</h3>
+<h3>Software QA Specialist with a passion for Automation.</h3>
 
 - 👀 Interested in UI Design, QA Testing, IoT and cloud technologies.
 - 🌱 Currently learning Selenium and AWS.
