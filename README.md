@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Stephane</h1>
 <h2>Software QA Specialist with a passion for Automation.</h2>
 
-- 👀 Interested in UI Design, QA Testing, IoT and cloud technologies.
+- 👀 Interested in Web Development, Software Testing, IoT and cloud technologies.
 - 🌱 Currently learning Selenium and AWS.
 
 <h3>Technologies:</h3> 
@@ -10,6 +10,9 @@
   <li>CSS</li>
   <li>SASS</li>
   <li>Bootstrap</li>
+  <li>SQL</li>
+  <li>XML</li>
+  <li>JSON</li>
   <li>JavaScript</li>
   <li>Node.js</li>
   <li>Python</li>
