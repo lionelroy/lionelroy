@@ -9,7 +9,6 @@
   <li>HTML5
   <li>CSS</li>
   <li>SASS</li>
-  <li>Bootstrap</li>
   <li>SQL</li>
   <li>XML</li>
   <li>JSON</li>
