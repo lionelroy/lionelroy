@@ -22,7 +22,8 @@
   <li>GraphQL</li>
   <li>Jira</li>
   <li>Zephyr Squad</li>
-  <li>Linux</li>
+  <li>Virtual Machines</li>
+  <li>Linux, Windows OS</li>
   <li>Git</li>
   <li>Jest</li>
   <li>Enzyme</li>
