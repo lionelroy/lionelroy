@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Stephane</h1>
-<h2>Software QA Specialist with a passion for Automation.</h2>
+<h2>Software QA Specialist with a background in Building Automation Systems.</h2>
 
 - 👀 Interested in software testing, networking, databases, IoT and cloud technologies.
 - 🌱 Currently learning AWS.
@@ -8,7 +8,6 @@
  <ul>
   <li>HTML5
   <li>CSS</li>
-  <li>SASS</li>
   <li>SQL</li>
   <li>XML</li>
   <li>JSON</li>
@@ -26,8 +25,6 @@
   <li>Network protocols</li>
   <li>Linux, Windows OS</li>
   <li>Git</li>
-  <li>Jest</li>
-  <li>Enzyme</li>
 </ul>
 
 
