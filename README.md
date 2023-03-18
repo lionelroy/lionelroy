@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m Stephane</h1>
 <h2>Software QA Specialist with a background in Building Automation Systems.</h2>
 
-- 👀 Interested in software testing, networking, databases, IoT and cloud technologies.
-- 🌱 Currently learning AWS.
+- 👀 Interested in software testing, networking, databases, and IoT.
+- 🌱 Currently learning Python.
 
 <h3>Technologies:</h3> 
  <ul>
