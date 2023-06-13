@@ -19,11 +19,6 @@
   <li>NumPy</li>
   <li>ReactJS</li>
   <li>GraphQL</li>
-  <li>Jira</li>
-  <li>Zephyr Squad</li>
-  <li>Virtual Machines</li>
-  <li>Network protocols</li>
-  <li>Linux, Windows OS</li>
   <li>Git</li>
 </ul>
 
