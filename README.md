@@ -12,8 +12,8 @@
   <li>SQL</li>
   <li>XML</li>
   <li>JSON</li>
-  <li>ReactJS</li>
   <li>JavaScript</li>
+  <li>ReactJS</li>
   <li>NodeJS</li>
   <li>Python</li>
   <li>Pandas</li>
