@@ -14,7 +14,7 @@
   <li>JSON</li>
   <li>ReactJS</li>
   <li>JavaScript</li>
-  <li>Node.js</li>
+  <li>NodeJS</li>
   <li>Python</li>
   <li>Pandas</li>
   <li>Matplotlib</li>
