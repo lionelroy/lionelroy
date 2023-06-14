@@ -1,12 +1,13 @@
 <h1>👋 Hi, I’m Stéphane</h1>
-<h2>Software QA Specialist with a background in Building Automation Systems.</h2>
+<h2>Building Automation Technician with a background in electrical technology and software QA.</h2>
 
-- 👀 Interested in software testing, networking, databases, and IoT.
+- 👀 Interested in projects relating to IoT, building automation systems, BACnet, electrical, HVAC, lighting, access controls, and CCTV.
 - 🌱 Currently learning Python.
 
 <h3>Technologies:</h3> 
  <ul>
-  <li>HTML5
+  <li>BACnet</li>
+  <li>HTML5</li>
   <li>CSS</li>
   <li>SQL</li>
   <li>XML</li>
@@ -20,6 +21,7 @@
   <li>ReactJS</li>
   <li>GraphQL</li>
   <li>Git</li>
+  <li>Virtual Machines</li>
 </ul>
 
 
