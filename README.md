@@ -1,8 +1,7 @@
 <h1>👋 Hi, I’m Stéphane</h1>
 <h2>Building Automation Technician with a background in electrical systems and software QA.</h2>
 
-- 👀 Interested in projects relating to IoT, building automation systems, BACnet, electrical, HVAC, access controls, and CCTV.
-- 🌱 Currently learning Python.
+- 👀 Interested in projects relating to IoT, energy modeling, building automation systems, BACnet, electrical, HVAC, access controls, and CCTV.
 
 <h3>Technologies:</h3> 
  <ul>
